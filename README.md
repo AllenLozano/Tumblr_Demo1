@@ -30,7 +30,12 @@ Please list two areas of the assignment you'd like to **discuss further with you
 
 Here's a walkthrough of implemented user stories:
 
+<<<<<<< HEAD
 ![](https://i.imgur.com/31L0PzE.gif)
+=======
+![](https://i.imgur.com/8fZUHb8.gif)
+
+>>>>>>> bbbd46020615a95c86d0c7ea5ae097ea799a306b
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
